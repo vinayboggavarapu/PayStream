@@ -1,0 +1,64 @@
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem;
+}
+
+.watch{
+    background: rgba(0, 0, 0, 0.53);
+    border-radius: 26px;
+    height: 65%;
+    width: 98%;
+    display: flex;
+    row-gap: 3rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.stream_container{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.1rem;
+    width: 89%;
+    font-family: var(--Noto-sans);
+}
+.stream_container p{
+    width: 30%;
+}
+
+.quote_container{
+    font-family: var( --Rancho);
+    font-style: normal;
+
+}
+.quote1{
+    font-size: 2rem;
+}
+.quote1>span{
+    color: #090424;
+
+}
+.watch>p{
+    font-size: 1.1rem;
+    font-family: var(--Noto-sans);
+    width: 90%;
+}
+.watch>p:nth-child(1){
+    text-align: end;
+    color: #FFECE4;
+
+}
+.watch>p:last-child{
+    text-align: end;
+    color: #F7E4FF;
+
+}
+
+.quote2{
+    margin-top: 1rem;
+    font-size: 2rem;
+    width: 85%;
+    color: #090424;
+}
