@@ -7,5 +7,5 @@ We believe if this can be replaced by Pay as you Watch , it can benefit other en
 
 *To solve this problem , we believe SuperFluid is a great Protocol to stream money automatically based on the Time..*
 **Find SuperFLuid SDk used in Components>Dashboard.js file**
-
+ DEMO : https://www.loom.com/share/838ba92c55ba4bfc8e8be12443e944bf
 
