@@ -6,4 +6,6 @@ They are certain user who anticipate to watch only a particular movie in a parti
 We believe if this can be replaced by Pay as you Watch , it can benefit other end users..
 
 *To solve this problem , we believe SuperFluid is a great Protocol to stream money automatically based on the Time..*
+***Find SuperFLuid SDk used in Dashboard.js file**
+
 
